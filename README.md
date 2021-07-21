@@ -5,8 +5,6 @@ Restaurant app for ordering food.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
 App for ordering food which will be use for educational purpeses but that could be the fundation of simething great.
 
 ## Getting Started
