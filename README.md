@@ -30,4 +30,5 @@ command to run if program contains helper info
 Contributors names and contact info
 
 juancarlosmillord@gmail.com
+
 reynoldmorel@gmail.com 
